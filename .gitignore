@@ -1,0 +1,18 @@
+*.elc
+*.DS_Store
+session*
+.session
+fonts/
+elpa/
+auto-save-list/
+backup/
+url/
+\#*\#
+
+
+# 自分の環境では存在しないけど、他の人が.gitignoreに入れてたので念のため
+server/
+work/
+semanticdb/
+tutorial/
+/*.cache
